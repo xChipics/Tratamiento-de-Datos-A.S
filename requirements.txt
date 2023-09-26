@@ -1,0 +1,5 @@
+Necesitaras 3 librerias en tu proyecto
+
+-flask
+-pymongo
+-requests
